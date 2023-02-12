@@ -1,0 +1,6 @@
+  =>  Template Name    : Kaushal Portfolio Template
+
+  =>  Template Author  : Kaushal Kishor
+
+  =>  Author Website   : https://www.kaushalm.com
+
