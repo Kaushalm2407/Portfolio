@@ -1,32 +1,5 @@
- 
-
- => FREE HTML TEMPLATE LICENSE BY Kaushal Kishor
- All free HTML templates by HTML Codex are licensed under a Creative Commons Attribution 4.0 International License which means you are not allowed to remove the author’s credit link/attribution link/backlink.
-
- When you download or use our free HTML templates, it will attribute the following conditions.
-
-
- => YOU ARE ALLOWED
-
-      1. You are allowed to use for your personal and commercial purposes.
-
-      2. You are allowed to modify/customize however you like.
-
-      3. You are allowed to convert/port for use for any CMS.
-
-      4. You are allowed to share/distribute under the HTML Codex brand name.
-
-      5. You are allowed to put a screenshot or a link on your blog posts or any other websites.
-
-
- => YOU ARE NOT ALLOWED
-
-      1. You are not allowed to remove the author’s credit link/attribution link/backlink without purchasing Credit Removal License
-
-      2. You are not allowed to sell, resale, rent, lease, license, or sub-license.
-
-      3. You are not allowed to upload on your template websites or template collection websites or any other third party websites without our permission.
-
- This license can be terminated if you breach any of these conditions.
-
- Please contact us (kaushalm797@gmail.com) if you have any query.
+The content on this website, including but not limited to text, graphics, images, logos, and code, is
+the property of [Your Company Name] and is protected by copyright and other intellectual property laws.
+The content is provided for personal, non-commercial use only and may not be used, reproduced, distributed,
+transmitted, displayed, published, or broadcast without the prior written permission of Kaushal Kishor. 
+You may not alter or remove any trademark, copyright, or other notice from copies of the content.
